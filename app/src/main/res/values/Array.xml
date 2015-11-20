@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="devices">
+        <item>Windows phone</item>
+        <item>android</item>
+        <item>other phone</item>
+    </string-array>
+    <string-array name="device_desc">
+        <item>ndfhdzsl ljjafzjkds jjakbS JKB windows phone</item>
+        <item>ndfhdzsl hugji juiq mundo fods JKB android phone</item>
+        <item>ndfhdzsl lumsip umsion jumill kuijj jjakbS JKB other phone</item>
+    </string-array>
+</resources>

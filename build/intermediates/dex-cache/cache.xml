@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-f9c334da14dd1cff07a6d4c13be9b3b077f133e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-81ca4def261ef29db0ebc9196221407d16d016af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-31cd07dd51258732ac8f5430ffa05859bc3502a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-0770a7c596d42954dc0da0e75279d50a57213b17.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-7324a2ceeba8c42bff5d1a4fbc376ca1562be536.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-ddc8d294b384db4f2782ce2295ac8ea6a7c27f38.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-3431b0f4ebc358f26a3e4661739315a7e91b264b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-c5bf2a20c278f837e961d9a62318ebec6c07d874.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-55a481addea04c4fa709b07fd8701bc3c43e6e66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-c2d17eae03e7dd37c6fb08fb3f756592f7e994b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-a8827cf8b72d89c02b11060fa90380569cde34ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-951868a5aad814c8bc0e028864ee691280abf293.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-9fd2970eb40812a1e09ff507aa027b81665cf1a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-9389f2cfc9273b04e7fa14f4a3a0c9f225aa44ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-77886c94fcacc26c4ff7e9b93eb50f2c2e96c85b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-931a161ff66b180a4004216833fe69ecf29e33f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-d0f899231907a19b302d56c970f21f41ebe0249c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-2ee736831e200b656685ee03770922a893fabd4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-6b2884e5ef27267d30771a01a4c5f9906b5c92ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-6bdc8fcf87304a7ba0e0ec513decff5190d645f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-d0fff21e431bcb1cae1640288cd414165c36a432.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-b346da0662effc4e42fa47d1219d27200a9aac14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-044a624986aa8060a55b1fcb631224e49eb6a6e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-8a8c6ae31e720d3a7a2fec4b870ad431adaa02c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-ed86b5c1c28905881274315fcf7d675f9cb68e0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-4254b3457b60960c0c92fadbe8b4c865666fee55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-eea0848486a8829ad099636ee416e801213a63d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-c57a2eb438e5790cbc2f8d66753cf94279c2d9f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-891d76149215c75a131c69290fbc0b2e5c428818.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-b3c1f59b3337a9dd52b25ba7ee05e782ad427e76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="C:\Users\Aaron\AndroidStudioProjects\KishAlert-master\app\build\intermediates\pre-dexed\debug\classes-ae437ce6be792d21eb46dfb2ae2e94e69cf7dec3.jar" />
+    </item>
+
+</items>
